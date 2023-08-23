@@ -6,6 +6,8 @@
 
 [LIVE](https://thetoastinside.github.io/readme-generator/)
 
+[VIDEO](https://www.youtube.com/watch?v=53NQDl13mEw)
+
 
 ### User Story:
 AS A developer
